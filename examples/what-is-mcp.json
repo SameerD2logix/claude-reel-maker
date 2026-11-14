@@ -1,0 +1,24 @@
+{
+  "slug": "what-is-mcp",
+  "brand": { "name": "D2Logix", "initials": "D2", "url": "d2logix.com" },
+  "slides": [
+    { "type": "title", "seconds": 4, "kicker": "AI + Automation", "title": "Claude ko apne tools se kaise jorein?", "highlight": "MCP" },
+    { "type": "big", "seconds": 4.8, "kicker": "MCP kya hai?", "title": "Model Context Protocol",
+      "lines": ["Anthropic ka open standard:", "AI ko tools aur data se jorne ka ek hi tareeqa."] },
+    { "type": "big", "seconds": 4.2, "kicker": "Simple misaal", "title": "USB-C jaisa",
+      "lines": ["Ek port → har device", "Ek protocol → har tool"] },
+    { "type": "bullets", "seconds": 5.6, "kicker": "Asli misalein", "title": "Aap ke kaam ki",
+      "items": [
+        { "label": "n8n", "detail": "Claude aap ke workflows chalaye" },
+        { "label": "GitHub", "detail": "Repos, issues aur PRs khud dekhe" },
+        { "label": "Database", "detail": "Leads se seedha sawal-jawab" }
+      ] },
+    { "type": "bullets", "seconds": 5.6, "kicker": "Security tip", "title": "Jo access do, wahi milta hai",
+      "items": [
+        { "label": "Bharosemand servers" },
+        { "label": "Kam se kam permissions" },
+        { "label": "Read-only jahan kaafi ho" }
+      ] },
+    { "type": "cta", "seconds": 4.6, "title": "Follow D2Logix", "subtitle": "AI + Automation, simple zubaan mein" }
+  ]
+}
