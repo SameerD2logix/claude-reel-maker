@@ -54,4 +54,4 @@ a real MP4 render when ffmpeg is present.
 
 ## Author
 
-**Sameer Hussain**, [D2Logix](https://d2logix.com). Used to make D2Logix's own explainer reels.
+**Sameer Hussain** · [LinkedIn](https://www.linkedin.com/in/sameer-hussain-87368a164) · [D2Logix](https://d2logix.com). Used to make D2Logix's own explainer reels.
